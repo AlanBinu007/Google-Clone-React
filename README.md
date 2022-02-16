@@ -15,6 +15,11 @@
 
 ## Steps to run in your machine
 
+Go to https://rapidapi.com/ and select google search option and copy your KEY nad paste it in .env like
+```
+REACT_APP_API_KEY=<YOUR KEY>
+```
+
 #### Run the following commands
 ```
 npm i
