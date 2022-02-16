@@ -1,6 +1,8 @@
 
 # Google Clone using React
 
+**This is a Google Clone using Reactjs and we are integrate it with RapidAPI for search result  and hosted on firebase**
+
 **Project Link** - ***https://alanbinu-gogle.web.app/search***
 
 ## Tech we used
