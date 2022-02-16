@@ -1,16 +1,26 @@
-# Goggl - The Most Unique Search Engine in the World
 
-![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+# Google Clone using React
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+**Project Link** - ***https://alanbinu-gogle.web.app/search***
 
-In this video, we will create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
+## Tech we used
 
-By the end of this video, you will become the master of working with APIs.
+- React
+- Firebase 
+- RapidAPI
 
-Setup:
-- run ```npm i && npm start``` to start the development server
+## Features
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+- Same like Google Search
+
+## Steps to run in your machine
+
+#### Run the following commands
+```
+npm i
+npm run start
+```
+
+
+
+#### Hope you liked this project, dont forget to ⭐ the repo.
